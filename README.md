@@ -10,7 +10,10 @@ Shenanigan is an incredibly ugly bash script designed to load balance recon and 
 
 # Warnings 
 --install currently only supports Ubuntu/Debian 
-Be ready to face a lot of bugs, I'm not being modest, YOU'RE GOING to face a LOT of bugs. 
+
+Be ready to face a lot of bugs.
+
+I'm not being modest, YOU'RE GOING to face a LOT of bugs. 
 
 # Usage
 ```
